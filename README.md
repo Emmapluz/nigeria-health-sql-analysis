@@ -73,8 +73,11 @@ in a single query result.
 ## Screenshots
 
 ![Query 1](screenshots/sql_query1_nigeria_life_expectancy.png)
+
 ![Query 4](screenshots/sql_query4_maternal_mortality.png)
+
 ![Query 5](screenshots/sql_query5_malaria_comparison.png)
+
 ![Query 6](screenshots/sql_query6_nigeria_health_profile.png)
 
 ---
